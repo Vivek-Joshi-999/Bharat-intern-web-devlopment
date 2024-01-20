@@ -1,0 +1,124 @@
+body {
+    background-image: url(https://img.freepik.com/free-vector/creative-geometric-design-space_53876-89781.jpg?w=740&t=st=1705229417~exp=1705230017~hmac=0d6af3206917f882d19ff9fc88848c8f7fc9ba6f3c2a410879980c1f5ddc7c99);
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.heading {
+    text-align: center;
+    margin: 3px;
+    margin-top: 80px;
+    color: rgb(247, 244, 250);
+    font-style: oblique;
+}
+
+.sechead {
+    margin-right: 20px;
+}
+
+.intro {
+    text-align: center;
+    margin: 3px;
+    margin-left: 2%;
+    margin-bottom: 50px;
+    margin-top: 40px;
+    color: rgb(250, 247, 253);
+    font-style: oblique;
+    font-size: xx-large;
+}
+
+header {
+    background-color: #f8f9fa;
+    padding: 10px;
+}
+
+nav {
+    text-align: left;
+    margin-left: 5%;
+    margin-top: 20px;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(246, 243, 250);
+    font-weight: bold;
+    font-size: 16px;
+    padding: 3px 16px;
+    background-color: #2b2d30;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(99, 91, 91, 0.1);
+    transition: background-color 0.3s ease;
+}
+
+a:hover {
+    color: #facd06;
+}
+
+.skills-list h2 {
+    text-align: center;
+    color: #eee8e8;
+    margin-right: 10px;
+}
+
+.skills-list {
+    list-style-type: none;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+}
+
+.skills-list li {
+    margin-bottom: 12px;
+    padding: 5px 2px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+}
+
+.cs h2 {
+    text-align: center;
+    color: #eee8e8;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+.cs-list h2 {
+    text-align: center;
+    color: #eee8e8;
+    margin-right: 30px;
+}
+
+.cs-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.cs-list li {
+    margin-bottom: 10px;
+    padding: 5px 2px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+}
+
+.about h2 {
+    text-align: center;
+    color: #eee8e8;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+.about p {
+    line-height: 1.5;
+    text-align: center;
+    color: #f8f9fa;
+}
