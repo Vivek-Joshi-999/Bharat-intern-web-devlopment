@@ -1,4 +1,4 @@
 # Bharat-intern-web-devlopment
 
-task-1 portfolio page
-task -2 Netflix clone
+Task-1 portfolio page
+Task -2 Netflix clone
